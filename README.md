@@ -1,4 +1,4 @@
-# MOS9 Open Source Hub
+# MOS9 Open Source Humanoid Robot
 
 [![Organization](https://img.shields.io/badge/organization-THMOS2025-blue.svg)](https://github.com/THMOS2025)
 [![Code License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
@@ -9,9 +9,16 @@
 MOS9 is an open-source humanoid robot project for RoboCup Kid-Size research and development. This repository is the public top-level hub that connects all MOS9 sub-repositories, including hardware design, deployment, IPC, policy learning, retargeting, drivers, and simulation.
 
 <figure class="ros-figure ros-figure--paired">
-    <img class="ros-image--full" src="./assets/images/mos92front.JPG" alt="mos92 front" />
+    <img class="ros-image--full" src="./assets/images/mos92front.JPG" alt="mos92 front" width="520" />
     <figcaption>MOS9.2 Front View</figcaption>
 </figure>
+
+## GitHub About (Suggested)
+
+MOS9 open-source humanoid robot hub for RoboCup Kid-Size. Includes hardware, deployment, IPC, policy learning, retargeting, drivers, and simulation repositories.
+
+Suggested Topics:
+`humanoid-robot`, `robocup`, `kid-size`, `robotics`, `open-source`, `ipc`, `reinforcement-learning`, `simulation`
 
 ## Overview
 
