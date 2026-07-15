@@ -43,26 +43,6 @@ bash scripts/clone_repos.sh
 3. Follow each sub-repository README for environment setup, build, and run instructions.
 4. For system-level documentation, visit the [MOS9 documentation website](https://wegg111.github.io/mos9-website/).
 
-Recommended local workspace layout:
-
-```text
-MOS9/
-  README.md
-  repos.yaml
-  scripts/
-    clone_repos.sh
-  repos/
-    MOS9-hardware/
-    mos9-deploy/
-    robot-ipc/
-    MOS9-AMP/
-    botong-joystick/
-    imu-n200/
-    MOS-GMR/
-    encos-driver/
-    MOS-MatLab-Simulation/
-```
-
 ## Contributing
 
 We welcome contributions from the community, including bug reports, feature requests, documentation improvements, and code changes across the MOS9 stack.
