@@ -1,0 +1,47 @@
+version: 1
+hub: MOS9
+repositories:
+  - name: MOS9-hardware
+    url: https://github.com/THMOS2025/MOS9-hardware
+    category: hardware
+    description: Mechanical design files and circuit schematics
+
+  - name: mos9-deploy
+    url: https://github.com/THMOS2025/mos9-deploy
+    category: deployment
+    description: Runtime deployment code and system bring-up
+
+  - name: robot-ipc
+    url: https://github.com/THMOS2025/robot-ipc
+    category: communication
+    description: THMOS inter-process communication protocol
+
+  - name: MOS9-AMP
+    url: https://github.com/THMOS2025/MOS9-AMP
+    category: control
+    description: AMP training and policy pipeline
+
+  - name: botong-joystick
+    url: https://github.com/THMOS2025/botong-joystick
+    category: teleoperation
+    description: Joystick controller integration
+
+  - name: imu-n200
+    url: https://github.com/THMOS2025/imu-n200
+    category: sensors
+    description: IMU integration code
+
+  - name: MOS-GMR
+    url: https://github.com/THMOS2025/MOS-GMR
+    category: retarget
+    description: Motion retargeting pipeline
+
+  - name: encos-driver
+    url: https://github.com/THMOS2025/encos-driver
+    category: drivers
+    description: Motor communication driver
+
+  - name: MOS-MatLab-Simulation
+    url: https://github.com/THMOS2025/MOS-MatLab-Simulation
+    category: simulation
+    description: MATLAB simulation assets and scripts

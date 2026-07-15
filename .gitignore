@@ -1,0 +1,5 @@
+# Local workspace clones
+repos/
+
+# macOS metadata
+.DS_Store
