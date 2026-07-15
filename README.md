@@ -13,12 +13,7 @@ MOS9 is an open-source humanoid robot project for RoboCup Kid-Size research and 
     <figcaption>MOS9.2 Front View</figcaption>
 </figure>
 
-## GitHub About (Suggested)
 
-MOS9 open-source humanoid robot hub for RoboCup Kid-Size. Includes hardware, deployment, IPC, policy learning, retargeting, drivers, and simulation repositories.
-
-Suggested Topics:
-`humanoid-robot`, `robocup`, `kid-size`, `robotics`, `open-source`, `ipc`, `reinforcement-learning`, `simulation`
 
 ## Overview
 
