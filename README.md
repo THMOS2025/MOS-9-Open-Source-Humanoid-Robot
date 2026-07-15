@@ -69,8 +69,8 @@ If you use MOS9 in research or engineering work, please cite the related project
 
 ```bibtex
 @misc{thmos2025mos9,
-  title        = {MOS9 Open Source Hub},
-  author       = {{THMOS Team}},
+  title        = {MOS-9 Open Source Humanoid Robot},
+  author       = {{TH-MOS Team}},
   year         = {2026},
   howpublished = {\url{https://github.com/THMOS2025}},
   note         = {Accessed: 2026-07-15}
