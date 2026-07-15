@@ -1,4 +1,4 @@
-# MOS9 Open Source Humanoid Robot
+# MOS-9 Open Source Humanoid Robot
 
 [![Organization](https://img.shields.io/badge/organization-THMOS2025-blue.svg)](https://github.com/THMOS2025)
 [![Code License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
