@@ -58,17 +58,17 @@ MOS9 is a collaborative project built by students and mentors across mechanical,
 ### Core Contributors
 
 - Chief Designer: [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
-- Mechanical Design: [Jinyin Zhou](https://github.com/jinyin-z19) (周金印), [Zhenghao Qi](https://github.com/wegg111) , [Zhiqiang Yu](https://github.com/EngZQ03) (余志强), Jiapeng Lin (林家鹏)
-- Electrical Design: [Ju Wang](https://github.com/infrontlight) (王矩), [Zhenghao Qi](https://github.com/wegg111) 
-- Communication Design: [Shaoyin Luo](https://github.com/LuoShaoyinn) (罗绍殷), [Zhenghao Qi](https://github.com/wegg111) 
-- Motion Control: [Zhenghao Qi](https://github.com/wegg111) , [Jinyin Zhou](https://github.com/jinyin-z19) 
+- Mechanical Design: [Jinyin Zhou](https://github.com/jinyin-z19) (周金印), Zhenghao Qi , [Zhiqiang Yu](https://github.com/EngZQ03) (余志强), Jiapeng Lin (林家鹏)
+- Electrical Design: [Ju Wang](https://github.com/infrontlight) (王矩), Zhenghao Qi 
+- Communication Design: [Shaoyin Luo](https://github.com/LuoShaoyinn) (罗绍殷), Zhenghao Qi
+- Motion Control: Zhenghao Qi , Jinyin Zhou
 
 ### Additional Acknowledgements
 
 We also thank the other students and mentors who contributed to this project:
 
 - Mechanical Design: Qiwen Li (李啟文), Shuquan Wang (王烁权), Warwick, Paul, [Zhizhou Qu](https://github.com/QuartZ-Z) (屈之洲), Changhao You (游昌壕), Keira
-- Electrical Design: Robin, Shuquan Wang (王烁权)
+- Electrical Design: Robin, Shuquan Wang 
 - Communication Design: [Shibo Xia](https://github.com/oooscarx) (夏士博)
 - Motion Control: [Zhuoheng Wang](https://github.com/Zhuoheng0910) (王茁蘅)
 
