@@ -58,10 +58,10 @@ MOS9 is a collaborative project built by students and mentors across mechanical,
 ### Core Contributors
 
 - Chief Designer: [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
-- Mechanical Design: [Jinyin Zhou](https://github.com/jinyin-z19) (周金印), [Zhenghao Qi](https://github.com/wegg111) (齐政皓), [Zhiqiang Yu](https://github.com/EngZQ03) (余志强), Jiapeng Lin (林家鹏)
-- Electrical Design: [Ju Wang](https://github.com/infrontlight) (王矩), [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
-- Communication Design: [Shaoyin Luo](https://github.com/LuoShaoyinn) (罗绍殷), [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
-- Motion Control: [Zhenghao Qi](https://github.com/wegg111) (齐政皓), [Jinyin Zhou](https://github.com/jinyin-z19) (周金印)
+- Mechanical Design: [Jinyin Zhou](https://github.com/jinyin-z19) (周金印), [Zhenghao Qi](https://github.com/wegg111) , [Zhiqiang Yu](https://github.com/EngZQ03) (余志强), Jiapeng Lin (林家鹏)
+- Electrical Design: [Ju Wang](https://github.com/infrontlight) (王矩), [Zhenghao Qi](https://github.com/wegg111) 
+- Communication Design: [Shaoyin Luo](https://github.com/LuoShaoyinn) (罗绍殷), [Zhenghao Qi](https://github.com/wegg111) 
+- Motion Control: [Zhenghao Qi](https://github.com/wegg111) , [Jinyin Zhou](https://github.com/jinyin-z19) 
 
 ### Additional Acknowledgements
 
