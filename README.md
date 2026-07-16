@@ -67,8 +67,8 @@ MOS9 is a collaborative project built by students and mentors across mechanical,
 
 We also thank the other students and mentors who contributed to this project:
 
-- Mechanical Design: Qiwen Li (李啟文), Shuquan Wang (王烁权), Warwick, Paul, [Zhizhou Qu](https://github.com/QuartZ-Z) (屈之洲), Changhao You (游昌壕), Keira
-- Electrical Design: Robin, Shuquan Wang 
+- Mechanical Design: Qiwen Li (李啟文), Shuoquan Wang (王烁权), Warwick, Paul, [Zhizhou Qu](https://github.com/QuartZ-Z) (屈之洲), Changhao You (游昌壕), Keira
+- Electrical Design: Robin, Shuoquan Wang 
 - Communication Design: [Shibo Xia](https://github.com/oooscarx) (夏士博)
 - Motion Control: [Zhuoheng Wang](https://github.com/Zhuoheng0910) (王茁蘅)
 
