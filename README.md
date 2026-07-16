@@ -4,7 +4,7 @@
 [![Code License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 [![Docs](https://img.shields.io/badge/docs-MOS9%20Website-2ea44f.svg)](https://wegg111.github.io/mos9-website/en/)
 
-**[Documentation](https://wegg111.github.io/mos9-website/en/)** | **[MOS9-hardware](https://github.com/THMOS2025/MOS9-hardware)** | **[mos9-deploy](https://github.com/THMOS2025/mos9-deploy)** | **[robot-ipc](https://github.com/THMOS2025/robot-ipc)** | **[MOS9-AMP](https://github.com/THMOS2025/MOS9-AMP)**
+**[Documentation](https://wegg111.github.io/mos9-website/en/)** | **[MOS9-hardware](https://github.com/THMOS2025/MOS9-hardward-step)** | **[mos9-deploy](https://github.com/THMOS2025/mos9-deploy)** | **[robot-ipc](https://github.com/THMOS2025/robot-ipc)** | **[MOS9-AMP](https://github.com/THMOS2025/MOS9-AMP)**
 
 MOS9 is an open-source humanoid robot project for RoboCup Kid-Size research and development. This repository is the public top-level hub that connects all MOS9 sub-repositories, including hardware design, deployment, IPC, policy learning, retargeting, drivers, and simulation.
 
