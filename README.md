@@ -51,6 +51,31 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening pull requests.
 
 For community collaboration guidelines, see [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
+## Contributors
+
+MOS9 is a collaborative project built by students and mentors across mechanical, electrical, communication, and motion-control domains.
+
+### Core Contributors
+
+- Chief Designer: [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
+- Mechanical Design: [Jinyin Zhou](https://github.com/jinyin-z19) (周金印), [Zhenghao Qi](https://github.com/wegg111) (齐政皓), [Zhiqiang Yu](https://github.com/EngZQ03) (余志强), Jiapeng Lin (林家鹏)
+- Electrical Design: [Ju Wang](https://github.com/infrontlight) (王矩), [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
+- Communication Design: [Shaoyin Luo](https://github.com/LuoShaoyinn) (罗绍殷), [Zhenghao Qi](https://github.com/wegg111) (齐政皓)
+- Motion Control: [Zhenghao Qi](https://github.com/wegg111) (齐政皓), [Jinyin Zhou](https://github.com/jinyin-z19) (周金印)
+
+### Additional Acknowledgements
+
+We also thank the other students and mentors who contributed to this project:
+
+- Mechanical Design: Qiwen Li (李啟文), Shuquan Wang (王烁权), Warwick, Paul, [Zhizhou Qu](https://github.com/QuartZ-Z) (屈之洲), Changhao You (游昌壕), Keira
+- Electrical Design: Robin, Shuquan Wang (王烁权)
+- Communication Design: [Shibo Xia](https://github.com/oooscarx) (夏士博)
+- Motion Control: [Zhuoheng Wang](https://github.com/Zhuoheng0910) (王茁蘅)
+
+### Special Thanks
+
+We sincerely thank Liu Li (刘莉) for financial support, and Shuguang Li (李曙光) and Mingguo Zhao (赵明国) for their guidance. We also gratefully acknowledge sponsorship from Xiaopeng.
+
 ## Security
 
 If you discover a security issue in this hub repository, please follow [SECURITY.md](./SECURITY.md).
