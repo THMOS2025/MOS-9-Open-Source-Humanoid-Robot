@@ -19,7 +19,7 @@ MOS9 is an open-source humanoid robot project for RoboCup Kid-Size research and 
 
 This repository is the workspace entry for the MOS9 ecosystem. Functionalities are organized into independent sub-repositories that can be developed and released separately.
 
-- [MOS9-hardware](https://github.com/THMOS2025/MOS9-hardware): Mechanical design files and circuit schematics.
+- [MOS9-hardware](https://github.com/THMOS2025/MOS9-hardward-step): Mechanical design files and circuit schematics.
 - [mos9-deploy](https://github.com/THMOS2025/mos9-deploy): Runtime deployment code and system bring-up.
 - [robot-ipc](https://github.com/THMOS2025/robot-ipc): THMOS inter-process communication protocol.
 - [MOS9-AMP](https://github.com/THMOS2025/MOS9-AMP): AMP training and policy pipeline.
